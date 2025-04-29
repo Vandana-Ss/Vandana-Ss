@@ -1,5 +1,9 @@
 <h1 align="center">Hi there, I'm Vandana 👋</h1>
 <p align="center">💻 Aspiring Full-Stack Web Developer | 🌱 Learning one step at a time</p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Vandana-Ss&label=Profile%20views&color=0e75b6&style=flat" alt="Vandana-Ss" />
+</p>
+
 
 ---
 

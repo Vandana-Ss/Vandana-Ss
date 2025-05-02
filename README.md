@@ -43,12 +43,6 @@
 
 ---
 
-### 🚧 Projects in Progress
-- Notes App with animations, local storage, dark mode, and UI enhancements
-- Mini projects like Rock Paper Scissors Game, ToDo List, Joke Generator, and more coming soon...
-
----
-
 ### 📈 GitHub Stats
 ![Vandana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vandana-Ss&show_icons=true&theme=tokyonight)
 

@@ -48,6 +48,11 @@
 
 ---
 
+![Merged PRs](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Vandana-Ss/<your-repo>/main/merged-prs.json&label=Merged%20PRs)
+
+
+---
+
 ### 🌱 Fun Fact
 - Learning consistently, one step at a time 🌟
 - ✨ Love clean code, quiet nights, and productive chaos

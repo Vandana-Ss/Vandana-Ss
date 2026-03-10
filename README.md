@@ -7,13 +7,6 @@
 
 I’m a dedicated and detail-oriented **full-stack web developer** with hands-on experience building scalable and modern web applications using the **MERN stack**. My approach is project-driven, focused on writing clean, maintainable code while continuously exploring new technologies and tools.
 
-- 🔁 Skilled in designing and building RESTful APIs, authentication systems, and dynamic full-stack applications
-- ⚙️ Comfortable with both frontend and backend development, database integration, and deployment workflows
-- 🧠 Passionate about open source, collaborative learning, and building impactful solutions
-- 🤖 Experienced in integrating third-party APIs (e.g., Geoapify, Google Places, OpenAI) to add real-world features and enhance user experience
-- 🎨 Familiar with UI component libraries like **ShadCN UI**, combining modern styling with development efficiency
-- 🚀 Always learning — from DevOps to AI integration — and applying it to build smarter, faster applications
-
 ---
 
 ### 🧰 Tech Stack
@@ -54,22 +47,6 @@ I’m a dedicated and detail-oriented **full-stack web developer** with hands-on
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)]()
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)]()
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)]()
-
----
-
-### 🚧 Currently Working On
-
-- 🔐 Building secure full-stack authentication systems using JWT, sessions, and OAuth2
-- 📦 Improving backend logic with advanced **MongoDB queries**, aggregation, and schema design
-- 🌍 Deploying MERN stack applications with real-world API integrations
-- 🤖 Developing AI-enhanced web experiences using OpenAI, custom prompts, and smart UI
-- 🧩 Contributing to open source projects and refining Git workflows
-
----
-
-### 📈 GitHub Stats
-
-![Vandana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vandana-Ss&show_icons=true&theme=tokyonight)
 
 ---
 
